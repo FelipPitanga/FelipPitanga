@@ -7,6 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipPitanga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img aling="Center" alt="python" helght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-<img aling="Center" alt="Django" helght="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img aling="Center" alt="Django" helght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img aling="Center" alt="python" helght="30" width="40"
+<img aling="Center" alt="python" helght="30" width="40"
+<img aling="Center" alt="python" helght="30" width="40"          
 
