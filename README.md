@@ -1,4 +1,4 @@
-### Sejam bem vindos, me chamo Felipe Pitanga 
+### Welcome, my name is Felipe Pitanga 
 
 I am currently⬇️
 - Working on personal projects 🧑‍💻
